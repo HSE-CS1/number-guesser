@@ -1,0 +1,14 @@
+body{
+    font-family: system-ui;
+}
+
+main{
+    width: 80%;
+    max-width: 700px;
+    margin:auto;
+    text-align:center;
+}
+
+#reset-div{
+    display: none;
+}
